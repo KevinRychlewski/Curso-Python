@@ -1,0 +1,11 @@
+maca
+banana
+melancia
+pera
+abacaxi
+
+vermelho
+azul
+preto
+amarelo
+verde

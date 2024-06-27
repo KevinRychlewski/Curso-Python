@@ -1,0 +1,8 @@
+DEBUG - logging no nivel info
+INFO - logging no nivel info
+WARNING - logging no nivel warning
+ERROR - logging no nivel error
+CRITICAL - logging nivel critico
+INFO - kevinsipioni13@gmail.com entrou em sua conta bancaria
+INFO - invalid literal for int() with base 10: 'a'
+INFO - invalid literal for int() with base 10: 'a' - 2024-01-26 22:54:56,108
